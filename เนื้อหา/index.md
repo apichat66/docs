@@ -12,8 +12,8 @@ featuredLinks:
     - /github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
     - /get-started/getting-started-with-git/managing-remote-repositories
     - /pages
-versions: '*'
-children:
+versions: '*'0x8a60D99CEe733240D9eD6dA4e996a860565e7116
+children:0x8a60D99CEe733240D9eD6dA4e996a860565e7116
   - get-started
   - account-and-profile
   - authentication
